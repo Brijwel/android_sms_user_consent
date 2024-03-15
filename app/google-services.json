@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "608300296577",
+    "project_id": "smsuserconsentexample",
+    "storage_bucket": "smsuserconsentexample.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608300296577:android:25a9eb43449f3575f22080",
+        "android_client_info": {
+          "package_name": "com.brijwel.smsuserconsent"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTfbgavIG1QTfb6UY11G1Rld_QS6Pl52E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SmsUserConsentExample</string>
+    <string name="start_listening_for_sms">Start listening for SMS</string>
+</resources>
