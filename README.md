@@ -1,0 +1,2 @@
+- Request one-time consent to read an SMS verification code
+- Documentation : https://developers.google.com/identity/sms-retriever/user-consent/request
