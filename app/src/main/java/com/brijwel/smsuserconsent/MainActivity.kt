@@ -81,7 +81,7 @@ class MainActivity : AppCompatActivity() {
             if (SmsRetriever.SMS_RETRIEVED_ACTION == intent.action) {
 
                 val extras = intent.extras?: return
-                val smsRetrieverStatus = extras.parcelable<Status>(SmsRetriever.EXTRA_STATUS)?: return
+                val smsRetrieverStatus :Status = extras.parcelable<Status>(SmsRetriever.EXTRA_STATUS)?: return
                 when (smsRetrieverStatus.statusCode) {
                     CommonStatusCodes.SUCCESS -> {
                         // Get consent intent
